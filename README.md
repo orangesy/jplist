@@ -14,7 +14,8 @@
 - 櫻井有吉アブナイ夜会
 - しゃべくり007
 - 有吉弘行のサンデーナイトドリーマー
-- miwa ﾐｭｰｽﾞﾉｰﾄ
+- [miwa ﾐｭｰｽﾞﾉｰﾄ](https://github.com/orangesy/jplist/blob/master/files/miwa_musenote.md)
+
 
 ### keep
 - 万年B組ヒムケン先生　
