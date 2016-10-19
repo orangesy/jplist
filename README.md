@@ -4,7 +4,8 @@
 - ワイドナショー
 - 乃木坂工事中
 - hkt48のおでかけ
-
+- nogibingo 7
+- 島崎遥香のぱるラジ
 
 ### long term
 - [akb48 ann](https://github.com/orangesy/jplist/blob/master/files/akb_ann.md)
