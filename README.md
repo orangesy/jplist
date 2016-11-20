@@ -16,7 +16,7 @@
 - しゃべくり007
 - 有吉弘行のサンデーナイトドリーマー
 - [miwa ﾐｭｰｽﾞﾉｰﾄ](https://github.com/orangesy/jplist/blob/master/files/miwa_musenote.md)
-
+- 王様のブランチ 買い物の達人
 
 ### keep
 - 万年B組ヒムケン先生　
