@@ -6,20 +6,21 @@
 - hkt48のおでかけ
 - nogibingo 7
 - 島崎遥香のぱるラジ
+- [akb48 ann AKB48のオールナイトニッポン](https://github.com/orangesy/jplist/blob/master/files/akb_ann.md)
+- [miwa ﾐｭｰｽﾞﾉｰﾄ](https://github.com/orangesy/jplist/blob/master/files/miwa_musenote.md)
 
 ### long term
-- [akb48 ann](https://github.com/orangesy/jplist/blob/master/files/akb_ann.md)
 - 千原ジュニアのヘベレケ
 - 有吉くんの正直さんぽ
 - 有吉反省会
 - 櫻井有吉アブナイ夜会
 - しゃべくり007
 - 有吉弘行のサンデーナイトドリーマー
-- [miwa ﾐｭｰｽﾞﾉｰﾄ](https://github.com/orangesy/jplist/blob/master/files/miwa_musenote.md)
 - 王様のブランチ 買い物の達人
 - アナザースカイ
 - AVALON 松岡茉優
 - ボクらの時代
+- 日曜もアメトーーク / アメトーーク
 
 ### keep
 - 万年B組ヒムケン先生　
@@ -37,7 +38,7 @@
  - 音樂節目
 - ** | 【ゲスト：HKT48 指原莉乃】土田晃之 日曜のへそ2016年08月28日
 - 2016.08.23 SCHOOL OF LOCK! 【ゲスト：乃木坂46 橋本奈々未】
-
+- ** | アメトーーク! 独身こじらせ芸人
 
 
 #### keyword
