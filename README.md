@@ -8,6 +8,8 @@
 - 島崎遥香のぱるラジ
 - [akb48 ann AKB48のオールナイトニッポン](https://github.com/orangesy/jplist/blob/master/files/akb_ann.md)
 - [miwa ﾐｭｰｽﾞﾉｰﾄ](https://github.com/orangesy/jplist/blob/master/files/miwa_musenote.md)
+- [【乃木坂46】HARRY'S ENGLISH CLASS【齋藤飛鳥】](https://github.com/orangesy/jplist/blob/master/files/asuka_english_class.md)
+
 
 ### long term
 - 千原ジュニアのヘベレケ
@@ -21,6 +23,7 @@
 - AVALON 松岡茉優
 - ボクらの時代
 - 日曜もアメトーーク / アメトーーク
+- 行列のできる法律相談所
 
 ### keep
 - 万年B組ヒムケン先生　
@@ -42,6 +45,12 @@
 - ボクらの時代 2016-09-11 松田翔太×蒼井優×オダギリジョー
 - ボクらの時代 2015-05-24 前田敦子、高畑充希、柄本時生、池松壮亮
 - ボクらの時代 2015-02-01 福田雄一×ユースケ・サンタマリア×ムロツヨシ
+- ボクらの時代 2014-10-19	福田雄一×水川あさみ×佐藤二朗
+- [ボクらの時代wiki](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%AF%E3%82%89%E3%81%AE%E6%99%82%E4%BB%A3)
+- 行列のできる法律相談所 161127 2016年11月27日
+
+
+
 
 #### keyword
 - [ワイドナショー](https://github.com/orangesy/jplist/blob/master/wideshow_list.md)
